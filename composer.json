@@ -8,6 +8,7 @@
     "donquixote/nicetrace": "~0.0",
     "donquixote/containerkit": "~0.0",
     "donquixote/annotation-parser": "~0.0",
+    "drupal/themekit": "^2.0",
     "drupal/xautoload": "^5.7",
     "drupal/cfr": "^1.1"
   }
