@@ -1,0 +1,3 @@
+name = Composer manager replacement
+description = Replacement for composer_manager, to allow a Composer-controlled D7 site to install modules which require composer_manager.
+core = 7.x
