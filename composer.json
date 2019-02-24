@@ -11,5 +11,8 @@
     "drupal/themekit": "^2.0",
     "drupal/xautoload": "^5.7",
     "drupal/cfr": "^1.1"
+  },
+  "replace": {
+    "drupal/composer_manager": "*"
   }
 }
