@@ -1,0 +1,13 @@
+{
+  "minimum-stability": "dev",
+  "name": "Drupal 7 cfr composer integration",
+  "description": "Helper package to download the Drupal cfr module with dependencies, without composer_manager.",
+  "require": {
+    "donquixote/callback-reflection": "~1.0",
+    "donquixote/nicetrace": "~0.0",
+    "donquixote/containerkit": "~0.0",
+    "donquixote/annotation-parser": "~0.0",
+    "drupal/xautoload": "^5.7",
+    "drupal/cfr": "^1.1"
+  }
+}
